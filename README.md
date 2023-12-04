@@ -2,8 +2,10 @@
 [![blog](https://img.shields.io/badge/bio.link-000000%7D?style=for-the-badge&logo=biolink&logoColor=white)](https://talissonsouzadev.github.io/Portifolio/)
 [![Linkdin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/talisson-souza-81a069215/)
 
-
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TalissonSouzaDev&show_icons=true&theme=dracula)
 ![TalissonSouzaDev GitHub stats](https://github-readme-stats.vercel.app/api?username=TalissonSouzaDev&show_icons=true&theme=dracula)
+
+
 
 
 ### Tecnologias
