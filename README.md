@@ -3,7 +3,6 @@
 [![Linkdin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/talisson-souza-81a069215/)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TalissonSouzaDev&show_icons=true&theme=dracula&locale=pt-br)
-![TalissonSouzaDev GitHub stats](https://github-readme-stats.vercel.app/api?username=TalissonSouzaDev&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&locale=pt-br)
 
 
 
@@ -19,8 +18,11 @@
 <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" alt="laravel" align="center"  />
 <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="react" align="center"  />
     </br></br>
+<img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" alt="golang" align="center"  />
 <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" alt="bootstrap" align="center"  />
-  
+<img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="github" align="center"  />
+<img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="mongo" align="center"/>
+<img src="https://img.shields.io/badge/redis-%23DD0031.svg?&style=for-the-badge&logo=redis&logoColor=white" alt="redis" align="center"/>  
 <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" alt="mysql" align="center"  />
 <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="pg" align="center"  />  
 </div>
